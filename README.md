@@ -44,6 +44,14 @@ Speed up cursor: Go to `System Preferences` > `Keyboard`, move `Key Repeat` and 
 
 <https://gist.github.com/squarism/ae3613daf5c01a98ba3a>
 
+#### use `⌥ ←` / `⌥ →` to move by words
+
+In iTerm, first go to `Preferences` > `Profiles` > `Keys` > `General`, you need to set your left/right option key to act as an escape character. Then go to `Key Mapping`, you can either change the current shortcut for `⌥ ←` / `⌥ →` or create a new one, in the profile shortcut keys, with the following settings:
+
+Keyboard Shortcut: `⌥ ←`
+Action: Send Escape Sequence
+Esc+: b
+
 ***
 
 ## productivity tools
