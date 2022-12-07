@@ -1,6 +1,6 @@
 # keyboard shortcuts & productivity tools 
 
-## keyboard shortcuts & settings
+## keyboard shortcuts & configurations
 
 ### 1. MacOS
 
