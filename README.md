@@ -42,7 +42,7 @@ Raycast can be extended to tailor the experience even further with Script Comman
 
 Installation:
 
-  brew install --cask raycast
+    brew install --cask raycast
 
 ### 2. Notion
 
