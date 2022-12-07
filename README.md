@@ -44,18 +44,37 @@ App Store
 
 ### 4. Oh my zsh
 
+Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
 Installation: 
+
+via curl:
+
+`sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+via wget:
+
+`sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 
 ### 5. Homebrew & Homebrew cask
 
+Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux.
+
+Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome.
+
+To start using Homebrew Cask, you just need Homebrew installed.
 
 Installation: 
+
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ### 6. The Silver Searcher
 
+The Silver Searcher is a free and open source, cross platform source code searching tool similar to ack (a grep-like tool for programmers) but faster.
 
 Installation: 
+
+`brew install the_silver_searcher`
 
 ### 7. Sourcetree
 
@@ -69,8 +88,11 @@ Installation:
 
 ### 9. F.lux
 
+f.lux makes your computer screen look like the room you're in, all the time. When the sun sets, it makes your computer look like your indoor lights. In the morning, it makes things look like sunlight again.
 
 Installation: 
+
+<https://justgetflux.com/>
 
 ### 10. Sublime Text
 
