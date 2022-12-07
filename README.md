@@ -28,23 +28,51 @@ Installation:
 
 ### 2. Notion
 
+Notion is a note-taking software platform designed to help members of companies or organizations manage their knowledge for greater efficiency and productivity.
+
+Installation:
+
+<https://www.notion.so/desktop>
+
 ### 3. iShot
 
 iShot is an excellent, full-featured area screenshot, window screenshot, multi-window screenshot, long screenshot, shell screenshot, time-lapse screenshot, quick annotation, texture, color picking, screen recording, audio recording, OCR, screenshot translation tool on Mac .
 
 Installation: 
+
 App Store
 
 ### 4. Oh my zsh
 
+
+Installation: 
+
 ### 5. Homebrew & Homebrew cask
+
+
+Installation: 
 
 ### 6. The Silver Searcher
 
+
+Installation: 
+
 ### 7. Sourcetree
+
+
+Installation: 
 
 ### 8. CheatSheet
 
+
+Installation: 
+
 ### 9. F.lux
 
+
+Installation: 
+
 ### 10. Sublime Text
+
+
+Installation: 
