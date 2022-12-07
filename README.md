@@ -23,7 +23,8 @@ Raycast’s command line inspired user interface goes beyond searching data. Lis
 Raycast can be extended to tailor the experience even further with Script Commands and custom extensions which can be built with our flexible API. You can share all that within teams or communities.
 
 Installation:
-'brew install --cask raycast'
+
+`brew install --cask raycast`
 
 ### 2. Notion
 
