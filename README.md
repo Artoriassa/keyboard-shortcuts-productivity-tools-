@@ -4,8 +4,6 @@
 
 ### 1. MacOS
 
-#### Shortcuts
-
 <https://support.apple.com/en-us/HT201236>
 
 #### Function keys
@@ -32,11 +30,19 @@ Speed up cursor: Go to `System Preferences` > `Keyboard`, move `Key Repeat` and 
 
 ### 2. Chrome 
 
+<https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop>
+
 ### 3. IntelliJ IDEA
+
+<https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf>
 
 ### 4. Github
 
+<https://docs.github.com/en/get-started/using-github/keyboard-shortcuts>
+
 ### 5. iTerm
+
+<https://gist.github.com/squarism/ae3613daf5c01a98ba3a>
 
 ***
 
