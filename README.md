@@ -78,13 +78,21 @@ Installation:
 
 ### 7. Sourcetree
 
+A free Git client for Windows and Mac
+
+Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through Sourcetree's simple Git GUI.
 
 Installation: 
+
+<https://www.sourcetreeapp.com/>
 
 ### 8. CheatSheet
 
+Cheatsheet is used to quick reference of keyboard shortcuts in each application and cheatSheet works hand in hand with CustomShortcuts from my friends at Houdah Software. This way, the shortcuts can be edited directly in CustomShortcuts with a click on the pen symbol.
 
 Installation: 
+
+<https://www.mediaatelier.com/CheatSheet/>
 
 ### 9. F.lux
 
@@ -96,5 +104,8 @@ Installation:
 
 ### 10. Sublime Text
 
+Sublime Text is a shareware cross-platform source code editor. It natively supports many programming languages and markup languages. Users can expand its functionality with plugins, typically community-built and maintained under free-software licenses. 
 
 Installation: 
+
+<https://www.sublimetext.com/>
