@@ -2,9 +2,21 @@
 
 ## keyboard shortcuts & settings
 
-### 1. Mac
+### 1. MacOS
+
+#### Function keys
 
 By default, F1-F12 are special function keys, like adjust screen brightness. You are required to press Fn at the same time, when you need input F1-F12(like IntelliJ IDEA shortcuts). It's not so convenient for developers.
+
+#### Change `click` of Trackpad to `Tap`
+
+By default Trackpad is triggered by click, but you can change it to tap.
+
+Goto `System Preferences` > `Trackpad`，check `Tap to click` in `Point & Click` tab.
+
+#### Dock position
+
+#### Efficient Cursor
 
 To avoid pressing Fn: go to System Preferences > Keyboard，select Use all F1, F2, etc. keys as standard function keys in Keyboard tab。
 
@@ -30,7 +42,7 @@ Raycast can be extended to tailor the experience even further with Script Comman
 
 Installation:
 
-`brew install --cask raycast`
+  brew install --cask raycast
 
 ### 2. Notion
 
