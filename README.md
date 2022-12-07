@@ -1,7 +1,5 @@
 # keyboard shortcuts & productivity tools 
 
-***
-
 ## keyboard shortcuts & settings
 
 ### 1. Mac
@@ -18,9 +16,9 @@ To avoid pressing Fn: go to System Preferences > Keyboard，select Use all F1, F
 
 ### 5. iTerm
 
-## productivity tools
-
 ***
+
+## productivity tools
 
 ### 1. Raycast
 
