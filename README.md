@@ -4,8 +4,6 @@
 
 ## keyboard shortcuts & settings
 
-***
-
 ### 1. Mac
 
 By default, F1-F12 are special function keys, like adjust screen brightness. You are required to press Fn at the same time, when you need input F1-F12(like IntelliJ IDEA shortcuts). It's not so convenient for developers.
@@ -124,5 +122,5 @@ Installation:
 
 ## Reference
 
-<https://github.com/macdao/ocds-guide-to-setting-up-mac/blob/master/README.en.md#function-keys>
+<https://github.com/macdao/ocds-guide-to-setting-up-mac>
 
