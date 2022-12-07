@@ -4,9 +4,15 @@
 
 ### 1. MacOS
 
+#### Shortcuts
+
+<https://support.apple.com/en-us/HT201236>
+
 #### Function keys
 
 By default, F1-F12 are special function keys, like adjust screen brightness. You are required to press Fn at the same time, when you need input F1-F12(like IntelliJ IDEA shortcuts). It's not so convenient for developers.
+
+To avoid pressing Fn: go to `System Preferences` > `Keyboard`，select `Use all F1, F2, etc. keys as standard function keys` in Keyboard tab.
 
 #### Change `click` of Trackpad to `Tap`
 
@@ -16,9 +22,13 @@ Goto `System Preferences` > `Trackpad`，check `Tap to click` in `Point & Click`
 
 #### Dock position
 
+Dock comes at the bottom of screen as default, but as the resolution is 16:10, we'd better move it to left or right of screen to gain more vertical space.
+
 #### Efficient Cursor
 
-To avoid pressing Fn: go to System Preferences > Keyboard，select Use all F1, F2, etc. keys as standard function keys in Keyboard tab。
+By default, cursor has pretty slow blinking and moving speed. When you need delete a large paragraphs of text by pressing the backspace, you are probably wasting your time. Even you hold the backspace key hardly, the cursor is still as slow as a snail.
+
+Speed up cursor: Go to `System Preferences` > `Keyboard`, move `Key Repeat` and `Delay Until Repeat` slidebars to rightmost under Keyboard tab. Enjoy your speed now!
 
 ### 2. Chrome 
 
