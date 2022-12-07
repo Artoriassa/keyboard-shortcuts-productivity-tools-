@@ -1,19 +1,29 @@
-# keyboard shortcuts & productivity tools
+# keyboard shortcuts & productivity tools 
+
 ***
-## keyboard shortcuts
+
+## keyboard shortcuts & settings
+
 ***
-### 1. Mac 快捷键&配置推荐
 
-### 2. Chrome 快捷键推荐
+### 1. Mac
 
-### 3. IntelliJ IDEA快捷键&配置
+By default, F1-F12 are special function keys, like adjust screen brightness. You are required to press Fn at the same time, when you need input F1-F12(like IntelliJ IDEA shortcuts). It's not so convenient for developers.
 
-### 4. Github快捷键&配置
+To avoid pressing Fn: go to System Preferences > Keyboard，select Use all F1, F2, etc. keys as standard function keys in Keyboard tab。
 
-### 5. iTerm快捷键
+### 2. Chrome 
+
+### 3. IntelliJ IDEA
+
+### 4. Github
+
+### 5. iTerm
 
 ## productivity tools
+
 ***
+
 ### 1. Raycast
 
 Raycast provides a much richer feature set compared to those launchers. On top of searching local apps and files, it can be your clipboard manager, text expander, window manager, command palette for all apps and much more. Raycast provides much deeper and more native integrations to third party services. You can install extensions for Jira, GitHub, and Google Workspace, amongst others from the Store and control them without ever opening a browser.
@@ -109,3 +119,10 @@ Sublime Text is a shareware cross-platform source code editor. It natively suppo
 Installation: 
 
 <https://www.sublimetext.com/>
+
+***
+
+## Reference
+
+<https://github.com/macdao/ocds-guide-to-setting-up-mac/blob/master/README.en.md#function-keys>
+
