@@ -68,11 +68,11 @@ Installation:
 
 via curl:
 
-`sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 via wget:
 
-`sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
+    sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
 ### 5. Homebrew & Homebrew cask
 
@@ -84,7 +84,7 @@ To start using Homebrew Cask, you just need Homebrew installed.
 
 Installation: 
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ### 6. The Silver Searcher
 
@@ -92,7 +92,7 @@ The Silver Searcher is a free and open source, cross platform source code search
 
 Installation: 
 
-`brew install the_silver_searcher`
+    brew install the_silver_searcher
 
 ### 7. Sourcetree
 
